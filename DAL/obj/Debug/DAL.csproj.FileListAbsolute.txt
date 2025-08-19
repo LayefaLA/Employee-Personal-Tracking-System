@@ -1,0 +1,10 @@
+C:\Projects\Workshop\PersonalTracking\DAL\bin\Debug\DAL.dll.config
+C:\Projects\Workshop\PersonalTracking\DAL\bin\Debug\DAL.dll
+C:\Projects\Workshop\PersonalTracking\DAL\bin\Debug\DAL.pdb
+C:\Projects\Workshop\PersonalTracking\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Projects\Workshop\PersonalTracking\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Projects\Workshop\PersonalTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Projects\Workshop\PersonalTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Workshop\PersonalTracking\DAL\obj\Debug\DAL.dll
+C:\Projects\Workshop\PersonalTracking\DAL\obj\Debug\DAL.pdb
+C:\Projects\Workshop\PersonalTracking\DAL\obj\Debug\DAL.csproj.Up2Date

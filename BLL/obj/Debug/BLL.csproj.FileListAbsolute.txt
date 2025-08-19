@@ -1,0 +1,12 @@
+C:\Projects\Workshop\PersonalTracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Projects\Workshop\PersonalTracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\BLL.dll
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\BLL.pdb
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\DAL.dll
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\DAL.pdb
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\DAL.dll.config
+C:\Projects\Workshop\PersonalTracking\BLL\bin\Debug\System.Data.SqlClient.xml
+C:\Projects\Workshop\PersonalTracking\BLL\obj\Debug\BLL.dll
+C:\Projects\Workshop\PersonalTracking\BLL\obj\Debug\BLL.pdb
+C:\Projects\Workshop\PersonalTracking\BLL\obj\Debug\BLL.csproj.Up2Date
