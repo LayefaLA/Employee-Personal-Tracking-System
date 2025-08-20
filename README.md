@@ -22,7 +22,7 @@ Employee Personal Tracking System is a C# Windows Forms desktop application desi
 2. **BLL (Business Logic Layer)** for processing,
 3. **UI Layer** for forms and user interface.
 
-### **💻 Technologies Used **
+### 💻 Technologies Used 
 - C# (.NET Framework)
 - Windows Forms (WinForms)
 - LINQ to SQL (DataContext)
@@ -53,25 +53,13 @@ Clone or download this repository:
 CopyEdit
 git clone https://github.com/your-username/your-repo-name.git
 
-
-Database Setup:
-
-
-Open the provided SQL_set_up.sql file in SSMS (or any SQL client).
-
-
+** Database Setup: **
+- Open the provided SQL_set_up.sql file in SSMS (or any SQL client).
 Execute the script to create the database and tables.
 
-
-Configure Database Connection:
-
-
+** Configure Database Connection: **
 Open the EmployeeDataClass.dbml or related *.dbml.cs file under the DAL project.
-
-
 Ensure your database connection string is correct and pointing to your SQL Server instance.
-
-
 OR, if using App.config, update the connection string like below:
 
  xml
