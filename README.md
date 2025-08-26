@@ -97,7 +97,7 @@ Permissions (admin vs. standard user) are enforced through the login form using 
 
 Open SQL_set_up.sql to set up your own database in MySQL. If needed the code is as follows:
 …….
-USE [master]
+`USE [master]
 GO
 /****** Object:  Database [PersonalTracking]    Script Date: 31/07/2025 15:19:37 ******/
 CREATE DATABASE [PersonalTracking]
@@ -732,6 +732,6 @@ ALTER TABLE [dbo].[Task]  WITH CHECK ADD  CONSTRAINT [FK_Task_Employee] FOREIGN 
 REFERENCES [dbo].[Employee] ([ID])
 GO
 ALTER TABLE [dbo].[Task] CHECK CONSTRAINT [FK_Task_Employee]
-GO
+GO`
 
 …………….
