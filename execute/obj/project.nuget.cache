@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cP+HMVqB4wbnnVZVADl61XZ1lzaiZDJTp4yX1diDoMHbsdvgo62i+1RkFeWs6n4WxhSVK9ssr8h655J1NUpaBw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Workshop\\PersonalTracking\\execute\\execute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LayefaAgwosi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LayefaAgwosi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LayefaAgwosi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LayefaAgwosi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
